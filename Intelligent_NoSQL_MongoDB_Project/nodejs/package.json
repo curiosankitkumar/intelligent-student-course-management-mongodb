@@ -1,0 +1,13 @@
+{
+  "name": "ankit-mongodb-student-management",
+  "version": "1.0.0",
+  "description": "MongoDB mini project for CSE494 Intelligent NoSQL Databases",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}

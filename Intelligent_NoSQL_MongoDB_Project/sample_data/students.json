@@ -1,0 +1,42 @@
+[
+  {
+    "rollNo": 105,
+    "name": "Ankit Kumar",
+    "age": 21,
+    "active": true,
+    "cgpa": 8.9,
+    "skills": [
+      "Java",
+      "MongoDB",
+      "Python"
+    ],
+    "address": {
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "pinCode": 226001
+    },
+    "profile": {
+      "year": 4
+    }
+  },
+  {
+    "rollNo": 102,
+    "name": "Priya Singh",
+    "age": 21,
+    "active": true,
+    "cgpa": 9.1,
+    "skills": [
+      "Python",
+      "MongoDB",
+      "AI"
+    ],
+    "address": {
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "pinCode": 302001
+    },
+    "profile": {
+      "year": 4
+    }
+  }
+]
